@@ -229,7 +229,7 @@ function create_config( )
     sudo_users = {100610521,95149435},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = {no Teleseed  Its Looper},
+    about_text = [no teleseed  Its Looper],
     help_text_realm = []
 Realm Commands:
 
